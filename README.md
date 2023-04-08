@@ -1,0 +1,2 @@
+# 029-stripe-header-react
+This is project 29/100 of my React projects series. It's stripe header with the moving navbar component.
